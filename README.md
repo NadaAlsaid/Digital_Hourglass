@@ -15,6 +15,7 @@
 
 ![Digital_HoursGlass](https://github.com/NadaAlsaid/Digital_Hourglass/assets/92337927/e20f6af4-684f-4640-b776-5d557f2bf84d)
 <br>
-<img src="https://github.com/NadaAlsaid/Digital_Hourglass/assets/92337927/db25ad2d-2569-49cd-9f6a-90d5084e935f" width="100px" > 
-<br>
-<img src="https://github.com/NadaAlsaid/Digital_Hourglass/assets/92337927/3c6c0e3d-f548-4531-8145-2c6493119296" width="100px" > 
+<div  align="center"> 
+<img src="https://github.com/NadaAlsaid/Digital_Hourglass/assets/92337927/db25ad2d-2569-49cd-9f6a-90d5084e935f" width="200px" > 
+<img src="https://github.com/NadaAlsaid/Digital_Hourglass/assets/92337927/3c6c0e3d-f548-4531-8145-2c6493119296" width="200px" > 
+</div>
