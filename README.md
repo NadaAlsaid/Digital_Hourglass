@@ -1,6 +1,6 @@
 <h1 align="center"> Digital Hourglass</h1>
 
- Digital Hourglass is like hourglass ,but you can change time from application ,pause and reset hour. When time finished ,alarm would ring until you reset or flib over digital hourgalss.
+ Digital Hourglass is simulation for hourglass. You can control it using application (made by MIT App inventor). You can change time ,pause and reset hour from application. When time finished ,alarm would ring until you reset or flib over digital hourgalss.
 
 ## Components :
 - Arduino Uno 
@@ -19,3 +19,8 @@
 <img src="https://github.com/NadaAlsaid/Digital_Hourglass/assets/92337927/db25ad2d-2569-49cd-9f6a-90d5084e935f" width="200px" > 
 <img src="https://github.com/NadaAlsaid/Digital_Hourglass/assets/92337927/3c6c0e3d-f548-4531-8145-2c6493119296" width="200px" > 
 </div>
+# Collaborators:
+- <a href="https://github.com/NadaAlsaid">Nada Alsaid</a><br>
+- Hanine Aimen
+- Ahmed Mahmoud
+- Mo'men Kadry
